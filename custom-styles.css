@@ -50,14 +50,14 @@ table {
 }
 @font-face {
     font-family: BerkeleyStd;
-    src: url(Assets/fonts/BerkeleyStd-Book.otf);
+    src: url(assets/fonts/BerkeleyStd-Book.otf);
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
   }
   @font-face {
     font-family: HelveticaNeue;
-    src: url(Assets/fonts/HelveticaNeue-Light.ttf);
+    src: url(assets/fonts/HelveticaNeue-Light.ttf);
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -172,7 +172,7 @@ a{
     box-sizing: border-box;
     margin-top: 126px;
     margin-bottom: 40px;
-    background-image: url("Assets/images/desktop-page@2x.png");
+    background-image: url("assets/images/desktop-page@2x.png");
     background-size:100% 100%;
     background-position: center;
     height: 309px;
@@ -277,7 +277,7 @@ border-bottom: 1px solid #bfbfbf;
 .form-space select{
    background-repeat: no-repeat;
    appearance: none;
-   background-image: url("Assets/icons/down.png");
+   background-image: url("assets/icons/down.png");
    background-position: right;
    border-right: none;
 }
@@ -662,7 +662,7 @@ align-items:center;
     display: block !important;
 }
 .gradient-wallpaper{
-    background-image: url("Assets/images/slider-bg@3x.png");
+    background-image: url("assets/images/slider-bg@3x.png");
 }
 .container{
     width: 90%;
